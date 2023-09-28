@@ -1,0 +1,1 @@
+{"version":"1.0.1","news":"1. fixed that only the user sees the video \n 2. video now ends correctly"}
