@@ -1,1 +1,1 @@
-{"version":"2.3.0","news":"Added Standalone support, ox_lib support, Fixed Sync"}
+{"version":"2.3.0","news":"Added Standalone support, ox_lib support, Fixed Sync, more on DISCORD"}
