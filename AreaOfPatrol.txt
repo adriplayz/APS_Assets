@@ -1,0 +1,1 @@
+{"version":"2.3.0","news":"Added Standalone support, ox_lib support, Fixed Sync"}
