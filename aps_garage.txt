@@ -1,4 +1,4 @@
 {
   "version": "1.2.0",
-  "news": "\n- Fixed all known bugs with menu interaction\n- Menu closes when leaving the radius\n- Config explanation improved\n- Code structure improved\n- Improved Version Check"
+  "news": "\n- Added Auto Assign for Ace Permissions"
 }
