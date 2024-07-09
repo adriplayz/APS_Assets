@@ -1,1 +1,5 @@
-{"version":"1.1.1","news":"Fixed Admin Garage and Config adjusted"}
+{"version":"1.2.0","news":"- Fixed all known bugs with menu interaction. 
+- Menu closes when leaving the radius. 
+- Config explanation improved. 
+- Code structure improved
+"}
