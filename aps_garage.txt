@@ -1,4 +1,4 @@
 {
-  "version":"1.2.0",
-  "news":"- Fixed all known bugs with menu interaction\n- Menu closes when leaving the radius\n- Config explanation improved\n- Code structure improved
-"}
+  "version": "1.2.0",
+  "news": "- Fixed all known bugs with menu interaction\n- Menu closes when leaving the radius\n- Config explanation improved\n- Code structure improved"
+}
