@@ -1,4 +1,4 @@
 {
   "version": "1.3.0",
-  "news": "\n- Added categories for Blips"
+  "news": "\n- Added categories for Blips\n- Info Blips can be overrided for each garage\n- Info For help ask on the Discord - https://discord.aps-store.com/"
 }
