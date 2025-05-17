@@ -1,1 +1,1 @@
-{"version":"2.4.0","news":"-Added PolyZone to create real zones to make restrictions\n - For more, join Disocrd: https://discord.aps-store.com/"}
+{"version":"2.4.1","news":"-Added PolyZone to create real zones to make restrictions (2.4.0)\n-Added possibility to set the position of the AOP in the config (2.4.1)\n - For more, join Disocrd: https://discord.aps-store.com/"}
